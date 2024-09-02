@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="Stacker Crane Project">
+  <!-- exported by FACTORY I/O version 2.4.3 -->
+  <Tag type="Bool" addr="%I0.0">At Entry Sensor</Tag>
+  <Tag type="Bool" addr="%I0.1">At Load Sensor</Tag>
+  <Tag type="Bool" addr="%I0.2">At Left</Tag>
+  <Tag type="Bool" addr="%I0.7">Moving X</Tag>
+  <Tag type="Bool" addr="%I1.0">Moving Z</Tag>
+  <Tag type="Bool" addr="%I1.1">Start</Tag>
+  <Tag type="Bool" addr="%I1.2">Reset</Tag>
+  <Tag type="Bool" addr="%I1.3">Stop</Tag>
+  <Tag type="Bool" addr="%I1.4">Emergency stop</Tag>
+  <Tag type="Bool" addr="%Q0.0">Entry Conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.1">Load Conveyor</Tag>
+  <Tag type="Bool" addr="%Q0.2">Forks Left</Tag>
+  <Tag type="Bool" addr="%Q0.3">Forks Right</Tag>
+  <Tag type="Bool" addr="%Q0.4">Lift</Tag>
+  <Tag type="Bool" addr="%Q0.7">Start light</Tag>
+  <Tag type="Bool" addr="%Q1.0">Reset light</Tag>
+  <Tag type="Bool" addr="%Q1.1">Stop light</Tag>
+  <Tag type="DInt" addr="%QD8">Target Position</Tag>
+</Tagtable>
